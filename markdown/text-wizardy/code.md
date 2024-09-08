@@ -1,0 +1,1 @@
+To compile the Hello World program, do `javac HelloWorld.java`
